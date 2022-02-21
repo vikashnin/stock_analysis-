@@ -258,7 +258,7 @@ End Sub
 
 <img width="855" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/98666231/155027534-8267c409-4a3f-4571-a6ee-97baaddc4837.png">
 
-##Summary
+## Summary
 
 ### Pros and Cons of Refactoring Code
 When you refactor code it makes your code more efficent and it will run faster. The cons can be that there is a lot of room for error. If your original code is not running correctly then refactoring it maybe cause more issues. 
